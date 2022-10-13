@@ -20,7 +20,7 @@ HTML5, CSS/Sass, Javascript.
 Bulma, Vue.
 
 #### What I'm practising:
-Tailwind, React, WordPress (as Headless I already know the regular use of the CMS)
+Tailwind, React, WordPress (as Headless, I already know the regular use of the CMS)
 
 #### What I'd like to learn:
 VuePress or Nuxt, Next.js, Streamlit, Svelte, Strapi. Python, someday.
