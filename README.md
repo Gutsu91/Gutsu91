@@ -17,10 +17,10 @@ I've studied PR but never actually worked in the field. I did Technical SEO and 
 HTML5, CSS/Sass, JavaScript, and also a bit of PHP and SQL.
 
 #### What I'm mastering:
-Bulma, Vue.
+Bulma, Vue, WordPress (custom theme creation)
 
 #### What I'm practicing:
-Tailwind, React, WordPress (as Headless-CMS, I already know the regular one)
+Tailwind, React, WordPress (as Headless-CMS)
 
 #### What I'd like to learn:
 VuePress or Nuxt, Next.js, Streamlit, Svelte, Laravel, Strapi. Python, eventually.
